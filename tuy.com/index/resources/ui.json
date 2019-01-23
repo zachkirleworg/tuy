@@ -1,0 +1,22 @@
+{
+  "siteIdentity" : {
+    "colors" : {
+      "scheme" : "LIGHT",
+      "main" : "#FFFFFF",
+      "secondary" : "#000000"
+    },
+    "typography" : {
+      "headings" : {
+        "fontFamily" : "HelveticaNeue",
+        "fontSize" : "MEDIUM",
+        "fontWeight" : "NORMAL"
+      },
+      "body" : {
+        "fontFamily" : "HelveticaNeue",
+        "fontSize" : "MEDIUM",
+        "fontWeight" : "NORMAL"
+      }
+    },
+    "mainLogoRatio" : 0
+  }
+}
